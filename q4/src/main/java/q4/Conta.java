@@ -1,12 +1,12 @@
-package conta;
+package q4;
 
 public class Conta {
 	
-	private String titular;
-	private int numero;
-	private String agencia;
-	private double saldo;
-	private String dataAbertura;
+	public String titular;
+	public int numero;
+	public String agencia;
+	public double saldo;
+	public String dataAbertura;
 	
 	public void saca(int valor) {
 		this.saldo -= valor;
