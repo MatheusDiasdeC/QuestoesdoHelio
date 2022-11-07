@@ -1,6 +1,6 @@
 package main;
 
-import conta.Conta;
+import q3.Conta;
 
 public class Main {
 

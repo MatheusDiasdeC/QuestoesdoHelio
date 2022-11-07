@@ -1,4 +1,4 @@
-package conta;
+package q3;
 
 public class Conta {
 	
@@ -23,7 +23,7 @@ public class Conta {
 	}
 
 	public void retornaDadosParaImpressao() {
-		System.out.println("Agência: " + agencia + "\nTitular: " + titular + "\nNúmero da Conta" + numero + "\nSaldo: " + saldo );
+		System.out.println("Agencia: " + agencia + "\nTitular: " + titular + "\nNumero da Conta" + numero + "\nSaldo: " + saldo );
 	}
 	
 	public Conta() {};

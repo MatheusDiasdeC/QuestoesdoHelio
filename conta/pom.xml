@@ -4,7 +4,7 @@
   <artifactId>conta</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-   <name>conta</name>
+    <name>conta</name>
   <url>http://maven.apache.org</url>
 
   <properties>
