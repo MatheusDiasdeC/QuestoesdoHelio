@@ -22,7 +22,10 @@ public class ClassedeTeste {
 	    } else {
 	        System.out.println("diferentes");       
 	    }
+	    
 //Ao declarar que c2=c1, cria-se dois ponteiros que apontam para o mesmo endereço de memória, portanto, o "if" os acusa de ser iguais
+
+	    c1.getAttribute()
 	}
 
 }
